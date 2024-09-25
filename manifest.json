@@ -1,12 +1,12 @@
 {
   "name": "sudo-flix",
-  "short_name": "sudo-flix",
+  "short_name": "𝓯𝓻𝓮𝓪𝓴𝔂-flix",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#120f1d",
   "lang": "en",
   "scope": "/",
-  "description": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
+  "description": "get 𝓯𝓻𝓮𝓪𝓴𝔂",
   "theme_color": "#120f1d",
   "icons": [
     {
